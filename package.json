@@ -8,7 +8,7 @@
     "redux": "4.2.1",
     "lodash": "4.17.21",
     "moment": "2.29.4",
-    "nanoid": "3.3.6",
+    "nanoid": "3.3.19",
     "swiper": "6.8.4",
     "pixi.js": "6.5.9",
     "chart.js": "3.9.1",
