@@ -13,7 +13,7 @@
     "pixi.js": "6.5.9",
     "chart.js": "3.9.1",
     "react-dom": "17.0.2",
-    "websocket": "1.0.34",
+    "websocket": "1.0.35",
     "classnames": "2.3.2",
     "redux-saga": "1.2.3",
     "@types/jest": "26.0.24",
